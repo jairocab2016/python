@@ -13,7 +13,7 @@ fo.close()
 
 # Abrimos el archivo codehero.txt
 fo = open("codehero.txt", "r+")
-str = fo.read(10);
+str = fo.read(10)
 print "La lectura es : ", str
 
 # Cerramos el archivo codehero.txt
