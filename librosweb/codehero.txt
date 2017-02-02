@@ -1,2 +1,0 @@
-Codehero es una gran pagina para aprender a programar Python.
-Síguenos en @codeheroblog!!
