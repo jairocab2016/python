@@ -8,7 +8,7 @@ archivo.close()
 if archivo.closed:
     print "El archivo se ha cerrado correctamente"
 else:
-        print "El archivo permanece abierto"
+    print "El archivo permanece abierto"
 print nombre
 print modo
 print encoding

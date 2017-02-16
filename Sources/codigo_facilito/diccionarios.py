@@ -1,3 +1,3 @@
-diccionario= {'a':55}
+diccionario = {'a': 55}
 
 print(diccionario)

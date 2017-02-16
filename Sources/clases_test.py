@@ -1,9 +1,11 @@
+
 class Persona:
     def saludo_general(self):
-        return "Hola persona"
+        return "Hola Persona"
 
 
 class Estudiante(Persona):
+
     def __init__(self, nombre, edad):
         self.nombre = nombre
         self.edad = edad

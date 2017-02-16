@@ -12,6 +12,7 @@ n = 6: 5 -> 3 + 2
 
 """
 
+
 def fibo(x):
     # Primer termino = 0
     if x == 1:

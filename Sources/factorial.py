@@ -8,13 +8,14 @@ while factorial>0:
 print "Resultado: %i" % acum
 """
 
-#5!= 5 * 4!
-#10! = 10 * 9!
+# 5!= 5 * 4!
+# 10! = 10 * 9!
+
 
 def factorial(x):
-	if x ==0:
-		return 1
-	else:
-		return x * factorial(x-1)
+    if x == 0:
+        return 1
+    else:
+        return x * factorial(x - 1)
 
 print factorial(5)

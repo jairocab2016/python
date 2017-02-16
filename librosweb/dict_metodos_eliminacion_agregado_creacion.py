@@ -5,9 +5,9 @@ print diccionario
 # Vaciar un diccionario
 # diccionario.clear()
 print diccionario
-
 # Copiar un diccionario
-remera= diccionario.copy()
+
+remera = diccionario.copy()
 
 print diccionario
 print remera

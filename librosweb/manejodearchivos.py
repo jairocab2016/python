@@ -2,13 +2,10 @@
 
 # Abrimos el archivo remeras.txt
 fo = open("remeras.txt", "wb")
-fo.write( "Codehero es una gran pagina para aprender a programar Python.\nSíguenos en @codeheroblog!!\n");
+fo.write("Codehero es una gran pagina para aprender a programar Python.\nSíguenos en @codeheroblog!!\n")
 
 # Cerramos el archivo remeras.txt
 fo.close()
-
-
-
 
 
 # Abrimos el archivo remeras.txt
