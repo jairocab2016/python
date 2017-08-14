@@ -6,6 +6,9 @@ if __name__ == '__main__':
 
 	if response.status_code == 200:
 		content = response.content
-		file =  open('google.html', 'wb')
-		file.write(content)
-		file.close()
+		# file =  open('google.html', 'wb')
+		# file.write(content)
+		# file.close()
+
+		with open('google.html', 'wb') as file:
+			file.write(content)
